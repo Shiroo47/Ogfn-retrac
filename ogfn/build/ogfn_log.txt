@@ -1,0 +1,1463 @@
+[fanta] attaching
+[fanta] attached
+[fanta] running. Insert toggles the menu.
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] pickup def AthenaAmmoDataBulletsHeavy rarity=0 label=Ammo: Heavy Bullets count=6
+[loot] pickup def AthenaAmmoDataBulletsLight rarity=0 label=Ammo: Light Bullets count=18
+[loot] pickup def AthenaAmmoDataShells rarity=0 label=Ammo: Shells count=4
+[loot] pickup def AthenaAmmoDataBulletsMedium rarity=0 label=Ammo: Medium Bullets count=10
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] pickup def WID_Sniper_NoScope_Athena_R_Ore_T0 rarity=2 label=Hunting Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=1 label=Suppressed Submachine Gun count=1
+[loot] pickup def StoneItemData rarity=0 label=Stone count=30
+[loot] pickup def WID_Shotgun_Standard_Athena_UC_Ore rarity=2 label=Pump Shotgun count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=0 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Pistol_SemiAuto_Athena_C_Ore_T rarity=0 label=Pistol count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_UC_Ore rarity=1 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_UC_Ore_T rarity=1 label=Hunting Rifle count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_C_Ore_ rarity=0 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Pistol_SemiAuto_Athena_UC_Ore_ rarity=1 label=Pistol count=1
+[loot] pickup def WID_Assault_Heavy_Athena_R_Ore_T03 rarity=2 label=Heavy Assault Rifle count=1
+[loot] pickup def MetalItemData rarity=0 label=Metal count=30
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Grave Digger count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_C_Ore_ rarity=1 label=Pump Shotgun count=1
+[loot] pickup def WID_Assault_Heavy_Athena_UC_Ore_T0 rarity=1 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_VR_Ore rarity=2 label=Tactical Shotgun count=1
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02_ rarity=0 label=Grave Digger count=1
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Assault Rifle count=1
+[loot] pickup def WID_Pistol_SemiAuto_Athena_R_Ore_T rarity=2 label=Pistol count=1
+[loot] pickup def WID_Assault_Heavy_Athena_C_Ore_T03 rarity=0 label=Heavy Assault Rifle count=1
+[loot] pickup def WoodItemData rarity=0 label=Wood count=30
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02 rarity=0 label=Assault Rifle count=1
+[loot] pickup def WID_Sniper_BoltAction_Scope_Athena rarity=2 label=Bolt-Action Sniper Rifle count=1
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_R_Ore_ rarity=1 label=Tactical Shotgun count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_R_Ore_ rarity=2 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03 rarity=2 label=Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=2 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_UC_Ore rarity=1 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03_ rarity=2 label=Grave Digger count=1
+[loot] scan 17ms levels=112 actors=5233 classes=413 ignored=4807
+[loot]   chest   total=4 in_range=0 opened=0
+[loot]   ammo    total=7 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=247 in_range=247 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] scan 1ms levels=112 actors=5214 classes=424 ignored=4937
+[loot]   chest   total=4 in_range=0 opened=0
+[loot]   ammo    total=7 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=245 in_range=245 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] scan 1ms levels=112 actors=5427 classes=428 ignored=5119
+[loot]   chest   total=4 in_range=0 opened=0
+[loot]   ammo    total=7 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=238 in_range=238 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] scan 1ms levels=112 actors=5630 classes=429 ignored=5308
+[loot]   chest   total=4 in_range=0 opened=0
+[loot]   ammo    total=7 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=233 in_range=233 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] scan 1ms levels=112 actors=5969 classes=437 ignored=5401
+[loot]   chest   total=4 in_range=0 opened=0
+[loot]   ammo    total=7 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=231 in_range=231 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] scan 1ms levels=112 actors=6278 classes=440 ignored=5679
+[loot]   chest   total=4 in_range=0 opened=0
+[loot]   ammo    total=7 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=229 in_range=229 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] scan 1ms levels=112 actors=6572 classes=449 ignored=5952
+[loot]   chest   total=4 in_range=0 opened=0
+[loot]   ammo    total=7 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=229 in_range=229 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] scan 1ms levels=112 actors=6793 classes=451 ignored=5846
+[loot]   chest   total=4 in_range=0 opened=0
+[loot]   ammo    total=7 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=225 in_range=225 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] scan 1ms levels=112 actors=7018 classes=452 ignored=6043
+[loot]   chest   total=4 in_range=0 opened=0
+[loot]   ammo    total=7 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=222 in_range=222 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] scan 1ms levels=112 actors=7324 classes=453 ignored=6329
+[loot]   chest   total=4 in_range=0 opened=0
+[loot]   ammo    total=7 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=220 in_range=220 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] scan 1ms levels=112 actors=7583 classes=454 ignored=6312
+[loot]   chest   total=4 in_range=0 opened=0
+[loot]   ammo    total=7 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=220 in_range=220 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] scan 1ms levels=112 actors=7877 classes=455 ignored=6586
+[loot]   chest   total=4 in_range=0 opened=0
+[loot]   ammo    total=7 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=216 in_range=216 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] scan 1ms levels=112 actors=8121 classes=457 ignored=6806
+[loot]   chest   total=4 in_range=0 opened=0
+[loot]   ammo    total=7 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=212 in_range=212 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] class Athena_Prop_ShippingContainer_01_O -> none (loot-like name, not matched)
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] class Athena_Prop_ShippingContainer_01_O -> none (loot-like name, not matched)
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] class Athena_Prop_ShippingContainer_01_O -> none (loot-like name, not matched)
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] scan 24ms levels=137 actors=9747 classes=734 ignored=8304
+[loot]   chest   total=36 in_range=0 opened=0
+[loot]   ammo    total=49 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=94 in_range=0 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] class Athena_Prop_ShippingContainer_01_O -> none (loot-like name, not matched)
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_ShippingContainer_01_O -> none (loot-like name, not matched)
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_ShippingContainer_01_O -> none (loot-like name, not matched)
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] scan 10ms levels=110 actors=3562 classes=329 ignored=3446
+[loot]   chest   total=9 in_range=0 opened=0
+[loot]   ammo    total=8 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=94 in_range=0 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_02_C -> none (loot-like name, not matched)
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] scan 0ms levels=148 actors=10790 classes=949 ignored=10321
+[loot]   chest   total=75 in_range=0 opened=0
+[loot]   ammo    total=80 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=94 in_range=0 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03_ rarity=2 label=Grave Digger count=1
+[loot] scan 0ms levels=148 actors=10808 classes=954 ignored=10313
+[loot]   chest   total=75 in_range=0 opened=0
+[loot]   ammo    total=80 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=95 in_range=1 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_02_C -> none (loot-like name, not matched)
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] scan 0ms levels=149 actors=10891 classes=974 ignored=10376
+[loot]   chest   total=76 in_range=0 opened=0
+[loot]   ammo    total=80 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=94 in_range=0 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] class BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def TID_Floor_Player_Launch_Pad_Athena rarity=3 label=Launch Pad count=1
+[loot] pickup def TID_Context_BouncePad_Athena rarity=2 label=Bouncer count=3
+[loot] pickup def AthenaAmmoDataBulletsHeavy rarity=0 label=Ammo: Heavy Bullets count=6
+[loot] pickup def AthenaAmmoDataShells rarity=0 label=Ammo: Shells count=4
+[loot] pickup def Athena_Bandage rarity=0 label=Bandage count=5
+[loot] pickup def WoodItemData rarity=0 label=Wood count=30
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_VR_Ore rarity=2 label=Tactical Shotgun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_C_Ore_ rarity=0 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=2 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_Heavy_Athena_UC_Ore_T0 rarity=1 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_C_Ore_ rarity=1 label=Pump Shotgun count=1
+[loot] pickup def AthenaAmmoDataBulletsMedium rarity=0 label=Ammo: Medium Bullets count=14
+[loot] pickup def Athena_PurpleStuff rarity=3 label=Slurp Juice count=1
+[loot] pickup def WID_Hook_Gun_VR_Ore_T03 rarity=3 label=Grappler count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=1 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_UC_Ore rarity=1 label=Tactical Submachine Gun count=1
+[loot] pickup def AthenaAmmoDataBulletsLight rarity=0 label=Ammo: Light Bullets count=18
+[loot] pickup def WID_Assault_Heavy_Athena_C_Ore_T03 rarity=0 label=Heavy Assault Rifle count=1
+[loot] pickup def Athena_KnockGrenade rarity=2 label=Impulse Grenade count=3
+[loot] pickup def WID_Shotgun_Standard_Athena_UC_Ore rarity=2 label=Pump Shotgun count=1
+[loot] pickup def Athena_ShockGrenade rarity=3 label=Shockwave Grenade count=2
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02_ rarity=0 label=Grave Digger count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_UC_Ore rarity=1 label=Burst Assault Rifle count=1
+[loot] pickup def Athena_ShieldSmall rarity=1 label=Small Shield Potion count=3
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_R_Ore_ rarity=1 label=Tactical Shotgun count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_R_Ore_T0 rarity=2 label=Hunting Rifle count=1
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02 rarity=0 label=Assault Rifle count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03 rarity=2 label=Assault Rifle count=1
+[loot] pickup def Athena_Medkit rarity=1 label=Med Kit count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=0 label=Suppressed Submachine Gun count=1
+[loot] pickup def MetalItemData rarity=0 label=Metal count=30
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] pickup def WoodItemData rarity=0 label=Wood count=30
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def TID_Floor_Player_Launch_Pad_Athena rarity=3 label=Launch Pad count=1
+[loot] pickup def TID_Context_BouncePad_Athena rarity=2 label=Bouncer count=3
+[loot] pickup def AthenaAmmoDataBulletsMedium rarity=0 label=Ammo: Medium Bullets count=14
+[loot] pickup def AthenaAmmoDataBulletsHeavy rarity=0 label=Ammo: Heavy Bullets count=6
+[loot] pickup def AthenaAmmoDataShells rarity=0 label=Ammo: Shells count=4
+[loot] pickup def Athena_PurpleStuff rarity=3 label=Slurp Juice count=1
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] pickup def WID_Shotgun_Standard_Athena_C_Ore_ rarity=1 label=Pump Shotgun count=1
+[loot] pickup def WID_Hook_Gun_VR_Ore_T03 rarity=3 label=Grappler count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_UC_Ore rarity=2 label=Pump Shotgun count=1
+[loot] pickup def Athena_KnockGrenade rarity=2 label=Impulse Grenade count=3
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02_ rarity=0 label=Grave Digger count=1
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Grave Digger count=1
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Bandage rarity=0 label=Bandage count=5
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] pickup def WID_Assault_Heavy_Athena_UC_Ore_T0 rarity=1 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=1 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_UC_Ore rarity=1 label=Tactical Submachine Gun count=1
+[loot] pickup def AthenaAmmoDataBulletsLight rarity=0 label=Ammo: Light Bullets count=18
+[loot] pickup def WID_Assault_Heavy_Athena_C_Ore_T03 rarity=0 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_VR_Ore rarity=2 label=Tactical Shotgun count=1
+[loot] pickup def StoneItemData rarity=0 label=Stone count=30
+[loot] pickup def Athena_ShieldSmall rarity=1 label=Small Shield Potion count=3
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_02_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Medkit rarity=1 label=Med Kit count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_C_Ore_ rarity=0 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=2 label=Suppressed Submachine Gun count=1
+[loot] pickup def Athena_ShockGrenade rarity=3 label=Shockwave Grenade count=2
+[loot] pickup def WID_Assault_SemiAuto_Athena_UC_Ore rarity=1 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_R_Ore_ rarity=1 label=Tactical Shotgun count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_R_Ore_T0 rarity=2 label=Hunting Rifle count=1
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02 rarity=0 label=Assault Rifle count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03 rarity=2 label=Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=0 label=Suppressed Submachine Gun count=1
+[loot] pickup def MetalItemData rarity=0 label=Metal count=30
+[loot] pickup def WID_Athena_AppleSun rarity=2 label=Crash Pad count=3
+[loot] scan 2ms levels=148 actors=10989 classes=982 ignored=10284
+[loot]   chest   total=74 in_range=56 opened=0
+[loot]   ammo    total=79 in_range=64 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=217 in_range=122 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_VR_Ore rarity=2 label=Tactical Shotgun count=1
+[loot] pickup def WoodItemData rarity=0 label=Wood count=30
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def TID_Floor_Player_Launch_Pad_Athena rarity=3 label=Launch Pad count=1
+[loot] pickup def TID_Context_BouncePad_Athena rarity=2 label=Bouncer count=3
+[loot] pickup def AthenaAmmoDataBulletsMedium rarity=0 label=Ammo: Medium Bullets count=14
+[loot] pickup def AthenaAmmoDataBulletsHeavy rarity=0 label=Ammo: Heavy Bullets count=6
+[loot] pickup def AthenaAmmoDataShells rarity=0 label=Ammo: Shells count=4
+[loot] pickup def Athena_PurpleStuff rarity=3 label=Slurp Juice count=1
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] pickup def WID_Shotgun_Standard_Athena_C_Ore_ rarity=1 label=Pump Shotgun count=1
+[loot] pickup def WID_Hook_Gun_VR_Ore_T03 rarity=3 label=Grappler count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_UC_Ore rarity=2 label=Pump Shotgun count=1
+[loot] pickup def Athena_KnockGrenade rarity=2 label=Impulse Grenade count=3
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02_ rarity=0 label=Grave Digger count=1
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Grave Digger count=1
+[loot] pickup def Athena_ShieldSmall rarity=1 label=Small Shield Potion count=3
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Bandage rarity=0 label=Bandage count=5
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] pickup def WID_Assault_Heavy_Athena_UC_Ore_T0 rarity=1 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=1 label=Suppressed Submachine Gun count=1
+[loot] pickup def StoneItemData rarity=0 label=Stone count=30
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=0 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_UC_Ore rarity=1 label=Tactical Submachine Gun count=1
+[loot] pickup def AthenaAmmoDataBulletsLight rarity=0 label=Ammo: Light Bullets count=18
+[loot] pickup def WID_Assault_Heavy_Athena_C_Ore_T03 rarity=0 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=2 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_C_Ore_ rarity=0 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_R_Ore_T0 rarity=2 label=Hunting Rifle count=1
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_02_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Medkit rarity=1 label=Med Kit count=1
+[loot] pickup def Athena_ShockGrenade rarity=3 label=Shockwave Grenade count=2
+[loot] pickup def WID_Assault_SemiAuto_Athena_UC_Ore rarity=1 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_R_Ore_ rarity=1 label=Tactical Shotgun count=1
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02 rarity=0 label=Assault Rifle count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03 rarity=2 label=Assault Rifle count=1
+[loot] pickup def MetalItemData rarity=0 label=Metal count=30
+[loot] pickup def WID_Athena_AppleSun rarity=2 label=Crash Pad count=3
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def AthenaAmmoDataBulletsLight rarity=0 label=Ammo: Light Bullets count=18
+[loot] pickup def AthenaAmmoDataShells rarity=0 label=Ammo: Shells count=4
+[loot] pickup def AthenaAmmoDataBulletsMedium rarity=0 label=Ammo: Medium Bullets count=10
+[loot] pickup def AthenaAmmoDataBulletsHeavy rarity=0 label=Ammo: Heavy Bullets count=6
+[loot] class Valet_BasicCar_Vehicle_C -> vehicle
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_VR_Ore rarity=2 label=Tactical Shotgun count=1
+[loot] pickup def WoodItemData rarity=0 label=Wood count=30
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def TID_Floor_Player_Launch_Pad_Athena rarity=3 label=Launch Pad count=1
+[loot] pickup def TID_Context_BouncePad_Athena rarity=2 label=Bouncer count=3
+[loot] pickup def Athena_PurpleStuff rarity=3 label=Slurp Juice count=1
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] pickup def WID_Shotgun_Standard_Athena_C_Ore_ rarity=1 label=Pump Shotgun count=1
+[loot] pickup def WID_Hook_Gun_VR_Ore_T03 rarity=3 label=Grappler count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_UC_Ore rarity=2 label=Pump Shotgun count=1
+[loot] pickup def Athena_KnockGrenade rarity=2 label=Impulse Grenade count=3
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02_ rarity=0 label=Grave Digger count=1
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Grave Digger count=1
+[loot] pickup def Athena_ShieldSmall rarity=1 label=Small Shield Potion count=3
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Bandage rarity=0 label=Bandage count=5
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] pickup def WID_Assault_Heavy_Athena_UC_Ore_T0 rarity=1 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=1 label=Suppressed Submachine Gun count=1
+[loot] pickup def StoneItemData rarity=0 label=Stone count=30
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=0 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_UC_Ore rarity=1 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Assault_Heavy_Athena_C_Ore_T03 rarity=0 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=2 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_C_Ore_ rarity=0 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_R_Ore_T0 rarity=2 label=Hunting Rifle count=1
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_02_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Medkit rarity=1 label=Med Kit count=1
+[loot] pickup def Athena_ShockGrenade rarity=3 label=Shockwave Grenade count=2
+[loot] pickup def WID_Assault_SemiAuto_Athena_UC_Ore rarity=1 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_R_Ore_ rarity=1 label=Tactical Shotgun count=1
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] pickup def WID_Athena_AppleSun rarity=2 label=Crash Pad count=3
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02 rarity=0 label=Assault Rifle count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03 rarity=2 label=Assault Rifle count=1
+[loot] pickup def MetalItemData rarity=0 label=Metal count=30
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def AthenaAmmoDataBulletsLight rarity=0 label=Ammo: Light Bullets count=18
+[loot] pickup def AthenaAmmoDataShells rarity=0 label=Ammo: Shells count=4
+[loot] pickup def AthenaAmmoDataBulletsMedium rarity=0 label=Ammo: Medium Bullets count=10
+[loot] pickup def AthenaAmmoDataBulletsHeavy rarity=0 label=Ammo: Heavy Bullets count=6
+[loot] class Valet_BasicCar_Vehicle_C -> vehicle
+[loot] class MeatballVehicle_L_C -> vehicle label=Boat
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_VR_Ore rarity=2 label=Tactical Shotgun count=1
+[loot] pickup def WoodItemData rarity=0 label=Wood count=30
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def TID_Floor_Player_Launch_Pad_Athena rarity=3 label=Launch Pad count=1
+[loot] pickup def TID_Context_BouncePad_Athena rarity=2 label=Bouncer count=3
+[loot] pickup def Athena_PurpleStuff rarity=3 label=Slurp Juice count=1
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] pickup def WID_Shotgun_Standard_Athena_C_Ore_ rarity=1 label=Pump Shotgun count=1
+[loot] pickup def WID_Hook_Gun_VR_Ore_T03 rarity=3 label=Grappler count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_UC_Ore rarity=2 label=Pump Shotgun count=1
+[loot] pickup def Athena_KnockGrenade rarity=2 label=Impulse Grenade count=3
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02_ rarity=0 label=Grave Digger count=1
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Grave Digger count=1
+[loot] pickup def Athena_ShieldSmall rarity=1 label=Small Shield Potion count=3
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Bandage rarity=0 label=Bandage count=5
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] pickup def WID_Assault_Heavy_Athena_UC_Ore_T0 rarity=1 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=1 label=Suppressed Submachine Gun count=1
+[loot] pickup def StoneItemData rarity=0 label=Stone count=30
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=0 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_UC_Ore rarity=1 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Assault_Heavy_Athena_C_Ore_T03 rarity=0 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=2 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_C_Ore_ rarity=0 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_R_Ore_T0 rarity=2 label=Hunting Rifle count=1
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_02_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Medkit rarity=1 label=Med Kit count=1
+[loot] pickup def Athena_ShockGrenade rarity=3 label=Shockwave Grenade count=2
+[loot] pickup def WID_Assault_SemiAuto_Athena_UC_Ore rarity=1 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_R_Ore_ rarity=1 label=Tactical Shotgun count=1
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] pickup def WID_Athena_AppleSun rarity=2 label=Crash Pad count=3
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02 rarity=0 label=Assault Rifle count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03 rarity=2 label=Assault Rifle count=1
+[loot] pickup def MetalItemData rarity=0 label=Metal count=30
+[loot] scan 40ms levels=148 actors=11278 classes=978 ignored=10510
+[loot]   chest   total=74 in_range=61 opened=0
+[loot]   ammo    total=81 in_range=73 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=252 in_range=158 opened=0
+[loot]   vehicle total=2 in_range=2 opened=0
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def AthenaAmmoDataBulletsLight rarity=0 label=Ammo: Light Bullets count=18
+[loot] pickup def AthenaAmmoDataShells rarity=0 label=Ammo: Shells count=4
+[loot] pickup def AthenaAmmoDataBulletsMedium rarity=0 label=Ammo: Medium Bullets count=10
+[loot] pickup def AthenaAmmoDataBulletsHeavy rarity=0 label=Ammo: Heavy Bullets count=6
+[loot] class Valet_BasicCar_Vehicle_C -> vehicle
+[loot] class MeatballVehicle_L_C -> vehicle label=Boat
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_VR_Ore rarity=2 label=Tactical Shotgun count=1
+[loot] pickup def WoodItemData rarity=0 label=Wood count=30
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def TID_Floor_Player_Launch_Pad_Athena rarity=3 label=Launch Pad count=1
+[loot] pickup def TID_Context_BouncePad_Athena rarity=2 label=Bouncer count=3
+[loot] pickup def Athena_PurpleStuff rarity=3 label=Slurp Juice count=1
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] pickup def WID_Shotgun_Standard_Athena_C_Ore_ rarity=1 label=Pump Shotgun count=1
+[loot] pickup def WID_Hook_Gun_VR_Ore_T03 rarity=3 label=Grappler count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_UC_Ore rarity=2 label=Pump Shotgun count=1
+[loot] pickup def Athena_KnockGrenade rarity=2 label=Impulse Grenade count=3
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02_ rarity=0 label=Grave Digger count=1
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Grave Digger count=1
+[loot] pickup def Athena_ShieldSmall rarity=1 label=Small Shield Potion count=3
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Bandage rarity=0 label=Bandage count=5
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] pickup def WID_Assault_Heavy_Athena_UC_Ore_T0 rarity=1 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=1 label=Suppressed Submachine Gun count=1
+[loot] pickup def StoneItemData rarity=0 label=Stone count=30
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=0 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_UC_Ore rarity=1 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Assault_Heavy_Athena_C_Ore_T03 rarity=0 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=2 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_C_Ore_ rarity=0 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_R_Ore_T0 rarity=2 label=Hunting Rifle count=1
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_02_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Medkit rarity=1 label=Med Kit count=1
+[loot] pickup def Athena_ShockGrenade rarity=3 label=Shockwave Grenade count=2
+[loot] pickup def WID_Assault_SemiAuto_Athena_UC_Ore rarity=1 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_R_Ore_ rarity=1 label=Tactical Shotgun count=1
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] pickup def WID_Athena_AppleSun rarity=2 label=Crash Pad count=3
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02 rarity=0 label=Assault Rifle count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03 rarity=2 label=Assault Rifle count=1
+[loot] pickup def MetalItemData rarity=0 label=Metal count=30
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def AthenaAmmoDataBulletsLight rarity=0 label=Ammo: Light Bullets count=18
+[loot] pickup def AthenaAmmoDataShells rarity=0 label=Ammo: Shells count=4
+[loot] pickup def AthenaAmmoDataBulletsMedium rarity=0 label=Ammo: Medium Bullets count=10
+[loot] pickup def AthenaAmmoDataBulletsHeavy rarity=0 label=Ammo: Heavy Bullets count=6
+[loot] class Valet_BasicCar_Vehicle_C -> vehicle
+[loot] class MeatballVehicle_L_C -> vehicle label=Boat
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_VR_Ore rarity=2 label=Tactical Shotgun count=1
+[loot] pickup def WoodItemData rarity=0 label=Wood count=30
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def TID_Floor_Player_Launch_Pad_Athena rarity=3 label=Launch Pad count=1
+[loot] pickup def TID_Context_BouncePad_Athena rarity=2 label=Bouncer count=3
+[loot] pickup def Athena_PurpleStuff rarity=3 label=Slurp Juice count=1
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] pickup def WID_Shotgun_Standard_Athena_C_Ore_ rarity=1 label=Pump Shotgun count=1
+[loot] pickup def WID_Hook_Gun_VR_Ore_T03 rarity=3 label=Grappler count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_UC_Ore rarity=2 label=Pump Shotgun count=1
+[loot] pickup def Athena_KnockGrenade rarity=2 label=Impulse Grenade count=3
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02_ rarity=0 label=Grave Digger count=1
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Grave Digger count=1
+[loot] pickup def Athena_ShieldSmall rarity=1 label=Small Shield Potion count=3
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Bandage rarity=0 label=Bandage count=5
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] pickup def WID_Assault_Heavy_Athena_UC_Ore_T0 rarity=1 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=1 label=Suppressed Submachine Gun count=1
+[loot] pickup def StoneItemData rarity=0 label=Stone count=30
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=0 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_UC_Ore rarity=1 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Assault_Heavy_Athena_C_Ore_T03 rarity=0 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=2 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_C_Ore_ rarity=0 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_R_Ore_T0 rarity=2 label=Hunting Rifle count=1
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_02_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Medkit rarity=1 label=Med Kit count=1
+[loot] pickup def Athena_ShockGrenade rarity=3 label=Shockwave Grenade count=2
+[loot] pickup def WID_Assault_SemiAuto_Athena_UC_Ore rarity=1 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_R_Ore_ rarity=1 label=Tactical Shotgun count=1
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] pickup def WID_Athena_AppleSun rarity=2 label=Crash Pad count=3
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02 rarity=0 label=Assault Rifle count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03 rarity=2 label=Assault Rifle count=1
+[loot] pickup def MetalItemData rarity=0 label=Metal count=30
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def AthenaAmmoDataBulletsLight rarity=0 label=Ammo: Light Bullets count=18
+[loot] pickup def AthenaAmmoDataShells rarity=0 label=Ammo: Shells count=4
+[loot] pickup def AthenaAmmoDataBulletsMedium rarity=0 label=Ammo: Medium Bullets count=10
+[loot] pickup def AthenaAmmoDataBulletsHeavy rarity=0 label=Ammo: Heavy Bullets count=6
+[loot] class Valet_BasicCar_Vehicle_C -> vehicle
+[loot] class MeatballVehicle_L_C -> vehicle label=Boat
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_VR_Ore rarity=2 label=Tactical Shotgun count=1
+[loot] pickup def WoodItemData rarity=0 label=Wood count=30
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def TID_Floor_Player_Launch_Pad_Athena rarity=3 label=Launch Pad count=1
+[loot] pickup def TID_Context_BouncePad_Athena rarity=2 label=Bouncer count=3
+[loot] pickup def Athena_PurpleStuff rarity=3 label=Slurp Juice count=1
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] pickup def WID_Shotgun_Standard_Athena_C_Ore_ rarity=1 label=Pump Shotgun count=1
+[loot] pickup def WID_Hook_Gun_VR_Ore_T03 rarity=3 label=Grappler count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_UC_Ore rarity=2 label=Pump Shotgun count=1
+[loot] pickup def Athena_KnockGrenade rarity=2 label=Impulse Grenade count=3
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02_ rarity=0 label=Grave Digger count=1
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Grave Digger count=1
+[loot] pickup def Athena_ShieldSmall rarity=1 label=Small Shield Potion count=3
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Bandage rarity=0 label=Bandage count=5
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] pickup def WID_Assault_Heavy_Athena_UC_Ore_T0 rarity=1 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=1 label=Suppressed Submachine Gun count=1
+[loot] pickup def StoneItemData rarity=0 label=Stone count=30
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=0 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_UC_Ore rarity=1 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Assault_Heavy_Athena_C_Ore_T03 rarity=0 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=2 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_C_Ore_ rarity=0 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_R_Ore_T0 rarity=2 label=Hunting Rifle count=1
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_02_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Medkit rarity=1 label=Med Kit count=1
+[loot] pickup def Athena_ShockGrenade rarity=3 label=Shockwave Grenade count=2
+[loot] pickup def WID_Assault_SemiAuto_Athena_UC_Ore rarity=1 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_R_Ore_ rarity=1 label=Tactical Shotgun count=1
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] pickup def WID_Athena_AppleSun rarity=2 label=Crash Pad count=3
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02 rarity=0 label=Assault Rifle count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03 rarity=2 label=Assault Rifle count=1
+[loot] pickup def MetalItemData rarity=0 label=Metal count=30
+[loot] scan 1ms levels=156 actors=12119 classes=1031 ignored=11285
+[loot]   chest   total=76 in_range=62 opened=0
+[loot]   ammo    total=87 in_range=78 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=269 in_range=175 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] scan 1ms levels=156 actors=12321 classes=1052 ignored=11482
+[loot]   chest   total=76 in_range=62 opened=0
+[loot]   ammo    total=87 in_range=78 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=269 in_range=175 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] pickup def WID_Athena_WitchBroom rarity=5 label=Witch Broom count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_SR_Ore rarity=4 label=Pump Shotgun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_R_Ore_ rarity=2 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Sniper_Heavy_Athena_VR_Ore_T03 rarity=3 label=Heavy Sniper Rifle count=1
+[loot] pickup def AmmoDataRockets rarity=0 label=Ammo: Rockets count=3
+[loot] pickup def WID_Pistol_AutoHeavyPDW_Athena_R_O rarity=2 label=Submachine Gun count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_VR_Ore rarity=3 label=Pump Shotgun count=1
+[loot] pickup def WID_Assault_Stark_Athena_VR_Ore_T0 rarity=3 label=Stark Industries Energy Rifle count=1
+[loot] scan 1ms levels=156 actors=12570 classes=1057 ignored=11514
+[loot]   chest   total=76 in_range=62 opened=0
+[loot]   ammo    total=87 in_range=78 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=292 in_range=196 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] pickup def WID_Launcher_Pumpkin_Athena_UC_Ore rarity=1 label=Pumpkin Launcher count=1
+[loot] pickup def Athena_Shields rarity=2 label=Shield Potion count=3
+[loot] pickup def WID_Assault_Stark_Athena_R_Ore_T03 rarity=2 label=Stark Industries Energy Rifle count=1
+[loot] pickup def WID_Athena_CandyCorn rarity=0 label=Candy Corn count=15
+[loot] pickup def WID_Pistol_AutoHeavyPDW_Athena_VR_ rarity=3 label=Compact SMG count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_R_Ore_ rarity=2 label=Tactical Submachine Gun count=1
+[loot] scan 2ms levels=156 actors=12763 classes=1068 ignored=11665
+[loot]   chest   total=76 in_range=61 opened=1
+[loot]   ammo    total=87 in_range=78 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=309 in_range=213 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] pickup def Athena_ChillBronco rarity=2 label=Chug Splash count=6
+[loot] pickup def WID_Athena_HopDrop rarity=0 label=Hop Drop count=15
+[loot] pickup def WID_Pistol_HandCannon_Athena_VR_Or rarity=3 label=Hand Cannon count=1
+[loot] scan 1ms levels=156 actors=12923 classes=1071 ignored=11784
+[loot]   chest   total=76 in_range=61 opened=1
+[loot]   ammo    total=87 in_range=78 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=327 in_range=231 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] scan 1ms levels=156 actors=13022 classes=1074 ignored=11549
+[loot]   chest   total=76 in_range=61 opened=1
+[loot]   ammo    total=87 in_range=78 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=324 in_range=228 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] pickup def WID_Launcher_Pumpkin_Athena_VR_Ore rarity=3 label=Pumpkin Launcher count=1
+[loot] scan 2ms levels=156 actors=12109 classes=1079 ignored=11667
+[loot]   chest   total=75 in_range=60 opened=1
+[loot]   ammo    total=87 in_range=79 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=339 in_range=243 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] pickup def WID_Launcher_Pumpkin_Athena_R_Ore_ rarity=2 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_VR_Ore rarity=3 label=Burst Assault Rifle count=1
+[loot] scan 3ms levels=156 actors=12302 classes=1080 ignored=11825
+[loot]   chest   total=75 in_range=60 opened=1
+[loot]   ammo    total=87 in_range=78 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=357 in_range=261 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] scan 2ms levels=156 actors=12491 classes=1081 ignored=11737
+[loot]   chest   total=75 in_range=59 opened=2
+[loot]   ammo    total=86 in_range=77 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=353 in_range=257 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] pickup def WID_Pistol_Scavenger_Athena_VR_Ore rarity=3 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_VR_Ore_T rarity=3 label=Hunting Rifle count=1
+[loot] pickup def WID_Athena_Flopper_Shield rarity=2 label=Shield Fish count=3
+[loot] pickup def WID_Assault_AutoHigh_Athena_VR_Ore rarity=3 label=Grave Digger count=1
+[loot] scan 2ms levels=156 actors=12747 classes=1083 ignored=11940
+[loot]   chest   total=75 in_range=59 opened=2
+[loot]   ammo    total=86 in_range=78 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=365 in_range=269 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] scan 2ms levels=156 actors=12897 classes=1087 ignored=12083
+[loot]   chest   total=75 in_range=59 opened=2
+[loot]   ammo    total=86 in_range=77 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=362 in_range=266 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] scan 2ms levels=156 actors=13051 classes=1089 ignored=11910
+[loot]   chest   total=75 in_range=59 opened=2
+[loot]   ammo    total=86 in_range=78 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=371 in_range=275 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] pickup def WID_Assault_AutoHigh_Athena_SR_Ore rarity=4 label=Grave Digger count=1
+[loot] scan 2ms levels=156 actors=13194 classes=1093 ignored=12041
+[loot]   chest   total=75 in_range=59 opened=2
+[loot]   ammo    total=86 in_range=78 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=368 in_range=272 opened=0
+[loot]   vehicle total=3 in_range=3 opened=0
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def AthenaAmmoDataBulletsLight rarity=0 label=Ammo: Light Bullets count=18
+[loot] pickup def AthenaAmmoDataShells rarity=0 label=Ammo: Shells count=4
+[loot] pickup def AthenaAmmoDataBulletsMedium rarity=0 label=Ammo: Medium Bullets count=10
+[loot] pickup def AthenaAmmoDataBulletsHeavy rarity=0 label=Ammo: Heavy Bullets count=6
+[loot] class Valet_BasicCar_Vehicle_C -> vehicle
+[loot] class MeatballVehicle_L_C -> vehicle label=Boat
+[loot] pickup def WID_Sniper_NoScope_Athena_R_Ore_T0 rarity=2 label=Hunting Rifle count=1
+[loot] pickup def WoodItemData rarity=0 label=Wood count=50
+[loot] pickup def WID_Assault_SemiAuto_Athena_R_Ore_ rarity=2 label=Burst Assault Rifle count=1
+[loot] pickup def Athena_ShieldSmall rarity=1 label=Small Shield Potion count=6
+[loot] pickup def WID_Pistol_AutoHeavyPDW_Athena_R_O rarity=2 label=Submachine Gun count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_VR_Ore rarity=3 label=Pump Shotgun count=1
+[loot] pickup def StoneItemData rarity=0 label=Stone count=50
+[loot] pickup def WID_Assault_Stark_Athena_VR_Ore_T0 rarity=3 label=Stark Industries Energy Rifle count=1
+[loot] pickup def MetalItemData rarity=0 label=Metal count=90
+[loot] pickup def WID_Launcher_Pumpkin_Athena_UC_Ore rarity=1 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Assault_Stark_Athena_R_Ore_T03 rarity=2 label=Stark Industries Energy Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavyPDW_Athena_VR_ rarity=3 label=Compact SMG count=1
+[loot] pickup def WID_Athena_HopDrop rarity=0 label=Hop Drop count=15
+[loot] pickup def WID_Sniper_Heavy_Athena_VR_Ore_T03 rarity=3 label=Heavy Sniper Rifle count=1
+[loot] pickup def WID_Launcher_Pumpkin_Athena_VR_Ore rarity=3 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Launcher_Pumpkin_Athena_R_Ore_ rarity=2 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_VR_Ore rarity=3 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Athena_AppleSun rarity=2 label=Crash Pad count=3
+[loot] pickup def WID_Pistol_Scavenger_Athena_VR_Ore rarity=3 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_VR_Ore_T rarity=3 label=Hunting Rifle count=1
+[loot] pickup def WID_Assault_AutoHigh_Athena_VR_Ore rarity=3 label=Grave Digger count=1
+[loot] pickup def Athena_Shields rarity=2 label=Shield Potion count=1
+[loot] pickup def AmmoDataRockets rarity=0 label=Ammo: Rockets count=3
+[loot] pickup def WID_Assault_AutoHigh_Athena_SR_Ore rarity=4 label=Grave Digger count=1
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02_ rarity=0 label=Grave Digger count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_SR_Ore rarity=4 label=Pump Shotgun count=1
+[loot] pickup def WID_Athena_WitchBroom rarity=5 label=Witch Broom count=1
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_VR_Ore rarity=2 label=Tactical Shotgun count=1
+[loot] pickup def TID_Floor_Player_Launch_Pad_Athena rarity=3 label=Launch Pad count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_C_Ore_ rarity=1 label=Pump Shotgun count=1
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def TID_Context_BouncePad_Athena rarity=2 label=Bouncer count=3
+[loot] pickup def Athena_PurpleStuff rarity=3 label=Slurp Juice count=1
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] pickup def WID_Hook_Gun_VR_Ore_T03 rarity=3 label=Grappler count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_UC_Ore rarity=2 label=Pump Shotgun count=1
+[loot] pickup def Athena_KnockGrenade rarity=2 label=Impulse Grenade count=3
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Grave Digger count=1
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Bandage rarity=0 label=Bandage count=5
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] pickup def WID_Assault_Heavy_Athena_UC_Ore_T0 rarity=1 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=1 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=0 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_UC_Ore rarity=1 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_UC_Ore rarity=1 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Assault_Heavy_Athena_C_Ore_T03 rarity=0 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=2 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_C_Ore_ rarity=0 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_R_Ore_ rarity=2 label=Tactical Submachine Gun count=1
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_02_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Medkit rarity=1 label=Med Kit count=1
+[loot] pickup def Athena_ShockGrenade rarity=3 label=Shockwave Grenade count=2
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_R_Ore_ rarity=1 label=Tactical Shotgun count=1
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02 rarity=0 label=Assault Rifle count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03 rarity=2 label=Assault Rifle count=1
+[loot] pickup def Athena_ChillBronco rarity=2 label=Chug Splash count=2
+[loot] scan 2ms levels=157 actors=13530 classes=1079 ignored=12098
+[loot]   chest   total=76 in_range=60 opened=2
+[loot]   ammo    total=86 in_range=79 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=401 in_range=305 opened=0
+[loot]   vehicle total=3 in_range=3 opened=0
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def AthenaAmmoDataBulletsLight rarity=0 label=Ammo: Light Bullets count=18
+[loot] pickup def AthenaAmmoDataShells rarity=0 label=Ammo: Shells count=4
+[loot] pickup def AthenaAmmoDataBulletsMedium rarity=0 label=Ammo: Medium Bullets count=10
+[loot] pickup def AthenaAmmoDataBulletsHeavy rarity=0 label=Ammo: Heavy Bullets count=6
+[loot] class Valet_BasicCar_Vehicle_C -> vehicle
+[loot] class MeatballVehicle_L_C -> vehicle label=Boat
+[loot] pickup def WID_Sniper_NoScope_Athena_R_Ore_T0 rarity=2 label=Hunting Rifle count=1
+[loot] pickup def WoodItemData rarity=0 label=Wood count=50
+[loot] pickup def WID_Assault_SemiAuto_Athena_R_Ore_ rarity=2 label=Burst Assault Rifle count=1
+[loot] pickup def Athena_ShieldSmall rarity=1 label=Small Shield Potion count=6
+[loot] pickup def WID_Pistol_AutoHeavyPDW_Athena_R_O rarity=2 label=Submachine Gun count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_VR_Ore rarity=3 label=Pump Shotgun count=1
+[loot] pickup def StoneItemData rarity=0 label=Stone count=50
+[loot] pickup def WID_Assault_Stark_Athena_VR_Ore_T0 rarity=3 label=Stark Industries Energy Rifle count=1
+[loot] pickup def MetalItemData rarity=0 label=Metal count=90
+[loot] pickup def WID_Launcher_Pumpkin_Athena_UC_Ore rarity=1 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Assault_Stark_Athena_R_Ore_T03 rarity=2 label=Stark Industries Energy Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavyPDW_Athena_VR_ rarity=3 label=Compact SMG count=1
+[loot] pickup def WID_Athena_HopDrop rarity=0 label=Hop Drop count=15
+[loot] pickup def WID_Sniper_Heavy_Athena_VR_Ore_T03 rarity=3 label=Heavy Sniper Rifle count=1
+[loot] pickup def WID_Launcher_Pumpkin_Athena_VR_Ore rarity=3 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Launcher_Pumpkin_Athena_R_Ore_ rarity=2 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_VR_Ore rarity=3 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Athena_AppleSun rarity=2 label=Crash Pad count=3
+[loot] pickup def WID_Pistol_Scavenger_Athena_VR_Ore rarity=3 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_VR_Ore_T rarity=3 label=Hunting Rifle count=1
+[loot] pickup def WID_Assault_AutoHigh_Athena_VR_Ore rarity=3 label=Grave Digger count=1
+[loot] pickup def Athena_Shields rarity=2 label=Shield Potion count=1
+[loot] pickup def AmmoDataRockets rarity=0 label=Ammo: Rockets count=3
+[loot] pickup def WID_Assault_AutoHigh_Athena_SR_Ore rarity=4 label=Grave Digger count=1
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02_ rarity=0 label=Grave Digger count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_SR_Ore rarity=4 label=Pump Shotgun count=1
+[loot] pickup def WID_Athena_WitchBroom rarity=5 label=Witch Broom count=1
+[loot] pickup def TID_Context_BouncePad_Athena rarity=2 label=Bouncer count=3
+[loot] pickup def TID_Floor_Player_Launch_Pad_Athena rarity=3 label=Launch Pad count=2
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=1 label=Suppressed Submachine Gun count=1
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_VR_Ore rarity=2 label=Tactical Shotgun count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_C_Ore_ rarity=1 label=Pump Shotgun count=1
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_PurpleStuff rarity=3 label=Slurp Juice count=1
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] pickup def WID_Hook_Gun_VR_Ore_T03 rarity=3 label=Grappler count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_UC_Ore rarity=2 label=Pump Shotgun count=1
+[loot] pickup def Athena_KnockGrenade rarity=2 label=Impulse Grenade count=3
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Grave Digger count=1
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Bandage rarity=0 label=Bandage count=5
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] pickup def WID_Assault_Heavy_Athena_UC_Ore_T0 rarity=1 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=0 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_UC_Ore rarity=1 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_UC_Ore rarity=1 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Assault_Heavy_Athena_C_Ore_T03 rarity=0 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=2 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_C_Ore_ rarity=0 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_R_Ore_ rarity=2 label=Tactical Submachine Gun count=1
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_02_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Medkit rarity=1 label=Med Kit count=1
+[loot] pickup def Athena_ShockGrenade rarity=3 label=Shockwave Grenade count=2
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_R_Ore_ rarity=1 label=Tactical Shotgun count=1
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02 rarity=0 label=Assault Rifle count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03 rarity=2 label=Assault Rifle count=1
+[loot] pickup def Athena_ChillBronco rarity=2 label=Chug Splash count=2
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def AthenaAmmoDataBulletsLight rarity=0 label=Ammo: Light Bullets count=18
+[loot] pickup def AthenaAmmoDataShells rarity=0 label=Ammo: Shells count=4
+[loot] pickup def AthenaAmmoDataBulletsMedium rarity=0 label=Ammo: Medium Bullets count=10
+[loot] pickup def AthenaAmmoDataBulletsHeavy rarity=0 label=Ammo: Heavy Bullets count=6
+[loot] class Valet_BasicCar_Vehicle_C -> vehicle
+[loot] class MeatballVehicle_L_C -> vehicle label=Boat
+[loot] pickup def WID_Sniper_NoScope_Athena_R_Ore_T0 rarity=2 label=Hunting Rifle count=1
+[loot] pickup def WoodItemData rarity=0 label=Wood count=50
+[loot] pickup def WID_Assault_SemiAuto_Athena_R_Ore_ rarity=2 label=Burst Assault Rifle count=1
+[loot] pickup def Athena_ShieldSmall rarity=1 label=Small Shield Potion count=6
+[loot] pickup def WID_Pistol_AutoHeavyPDW_Athena_R_O rarity=2 label=Submachine Gun count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_VR_Ore rarity=3 label=Pump Shotgun count=1
+[loot] pickup def StoneItemData rarity=0 label=Stone count=50
+[loot] pickup def WID_Assault_Stark_Athena_VR_Ore_T0 rarity=3 label=Stark Industries Energy Rifle count=1
+[loot] pickup def MetalItemData rarity=0 label=Metal count=90
+[loot] pickup def WID_Launcher_Pumpkin_Athena_UC_Ore rarity=1 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Assault_Stark_Athena_R_Ore_T03 rarity=2 label=Stark Industries Energy Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavyPDW_Athena_VR_ rarity=3 label=Compact SMG count=1
+[loot] pickup def WID_Athena_HopDrop rarity=0 label=Hop Drop count=15
+[loot] pickup def WID_Sniper_Heavy_Athena_VR_Ore_T03 rarity=3 label=Heavy Sniper Rifle count=1
+[loot] pickup def WID_Launcher_Pumpkin_Athena_VR_Ore rarity=3 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Launcher_Pumpkin_Athena_R_Ore_ rarity=2 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_VR_Ore rarity=3 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Athena_AppleSun rarity=2 label=Crash Pad count=3
+[loot] pickup def WID_Pistol_Scavenger_Athena_VR_Ore rarity=3 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_VR_Ore_T rarity=3 label=Hunting Rifle count=1
+[loot] pickup def WID_Assault_AutoHigh_Athena_VR_Ore rarity=3 label=Grave Digger count=1
+[loot] pickup def Athena_Shields rarity=2 label=Shield Potion count=1
+[loot] pickup def AmmoDataRockets rarity=0 label=Ammo: Rockets count=3
+[loot] pickup def WID_Assault_AutoHigh_Athena_SR_Ore rarity=4 label=Grave Digger count=1
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02_ rarity=0 label=Grave Digger count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_SR_Ore rarity=4 label=Pump Shotgun count=1
+[loot] pickup def WID_Athena_WitchBroom rarity=5 label=Witch Broom count=1
+[loot] pickup def TID_Context_BouncePad_Athena rarity=2 label=Bouncer count=3
+[loot] pickup def TID_Floor_Player_Launch_Pad_Athena rarity=3 label=Launch Pad count=2
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=1 label=Suppressed Submachine Gun count=1
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_VR_Ore rarity=2 label=Tactical Shotgun count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_C_Ore_ rarity=1 label=Pump Shotgun count=1
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_PurpleStuff rarity=3 label=Slurp Juice count=1
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] pickup def WID_Hook_Gun_VR_Ore_T03 rarity=3 label=Grappler count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_UC_Ore rarity=2 label=Pump Shotgun count=1
+[loot] pickup def Athena_KnockGrenade rarity=2 label=Impulse Grenade count=3
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Grave Digger count=1
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Bandage rarity=0 label=Bandage count=5
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] pickup def WID_Assault_Heavy_Athena_UC_Ore_T0 rarity=1 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=0 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_UC_Ore rarity=1 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_UC_Ore rarity=1 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Assault_Heavy_Athena_C_Ore_T03 rarity=0 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=2 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_C_Ore_ rarity=0 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_R_Ore_ rarity=2 label=Tactical Submachine Gun count=1
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_02_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Medkit rarity=1 label=Med Kit count=1
+[loot] pickup def Athena_ShockGrenade rarity=3 label=Shockwave Grenade count=2
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_R_Ore_ rarity=1 label=Tactical Shotgun count=1
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02 rarity=0 label=Assault Rifle count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03 rarity=2 label=Assault Rifle count=1
+[loot] pickup def Athena_ChillBronco rarity=2 label=Chug Splash count=2
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def AthenaAmmoDataBulletsLight rarity=0 label=Ammo: Light Bullets count=18
+[loot] pickup def AthenaAmmoDataShells rarity=0 label=Ammo: Shells count=4
+[loot] pickup def AthenaAmmoDataBulletsMedium rarity=0 label=Ammo: Medium Bullets count=10
+[loot] pickup def AthenaAmmoDataBulletsHeavy rarity=0 label=Ammo: Heavy Bullets count=6
+[loot] class MeatballVehicle_L_C -> vehicle label=Boat
+[loot] pickup def WID_Sniper_NoScope_Athena_R_Ore_T0 rarity=2 label=Hunting Rifle count=1
+[loot] pickup def WoodItemData rarity=0 label=Wood count=50
+[loot] pickup def WID_Assault_SemiAuto_Athena_R_Ore_ rarity=2 label=Burst Assault Rifle count=1
+[loot] pickup def Athena_ShieldSmall rarity=1 label=Small Shield Potion count=6
+[loot] pickup def WID_Pistol_AutoHeavyPDW_Athena_R_O rarity=2 label=Submachine Gun count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_VR_Ore rarity=3 label=Pump Shotgun count=1
+[loot] pickup def StoneItemData rarity=0 label=Stone count=50
+[loot] pickup def WID_Assault_Stark_Athena_VR_Ore_T0 rarity=3 label=Stark Industries Energy Rifle count=1
+[loot] pickup def MetalItemData rarity=0 label=Metal count=90
+[loot] pickup def WID_Launcher_Pumpkin_Athena_UC_Ore rarity=1 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Assault_Stark_Athena_R_Ore_T03 rarity=2 label=Stark Industries Energy Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavyPDW_Athena_VR_ rarity=3 label=Compact SMG count=1
+[loot] pickup def WID_Athena_HopDrop rarity=0 label=Hop Drop count=15
+[loot] pickup def WID_Sniper_Heavy_Athena_VR_Ore_T03 rarity=3 label=Heavy Sniper Rifle count=1
+[loot] pickup def WID_Launcher_Pumpkin_Athena_VR_Ore rarity=3 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Launcher_Pumpkin_Athena_R_Ore_ rarity=2 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_VR_Ore rarity=3 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Athena_AppleSun rarity=2 label=Crash Pad count=3
+[loot] pickup def WID_Pistol_Scavenger_Athena_VR_Ore rarity=3 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_VR_Ore_T rarity=3 label=Hunting Rifle count=1
+[loot] pickup def WID_Assault_AutoHigh_Athena_VR_Ore rarity=3 label=Grave Digger count=1
+[loot] pickup def Athena_Shields rarity=2 label=Shield Potion count=1
+[loot] pickup def AmmoDataRockets rarity=0 label=Ammo: Rockets count=3
+[loot] pickup def WID_Assault_AutoHigh_Athena_SR_Ore rarity=4 label=Grave Digger count=1
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02_ rarity=0 label=Grave Digger count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_SR_Ore rarity=4 label=Pump Shotgun count=1
+[loot] pickup def WID_Athena_WitchBroom rarity=5 label=Witch Broom count=1
+[loot] pickup def TID_Context_BouncePad_Athena rarity=2 label=Bouncer count=3
+[loot] pickup def TID_Floor_Player_Launch_Pad_Athena rarity=3 label=Launch Pad count=2
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=1 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Athena_CandyCorn rarity=0 label=Candy Corn count=13
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_R_Ore_ rarity=1 label=Tactical Shotgun count=1
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_VR_Ore rarity=2 label=Tactical Shotgun count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_C_Ore_ rarity=1 label=Pump Shotgun count=1
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_PurpleStuff rarity=3 label=Slurp Juice count=1
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] pickup def WID_Hook_Gun_VR_Ore_T03 rarity=3 label=Grappler count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_UC_Ore rarity=2 label=Pump Shotgun count=1
+[loot] pickup def Athena_KnockGrenade rarity=2 label=Impulse Grenade count=3
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Grave Digger count=1
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Bandage rarity=0 label=Bandage count=5
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] pickup def WID_Assault_Heavy_Athena_UC_Ore_T0 rarity=1 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=0 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_UC_Ore rarity=1 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_UC_Ore rarity=1 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Assault_Heavy_Athena_C_Ore_T03 rarity=0 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=2 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_C_Ore_ rarity=0 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_R_Ore_ rarity=2 label=Tactical Submachine Gun count=1
+[loot] pickup def Athena_ShockGrenade rarity=3 label=Shockwave Grenade count=2
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_02_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Medkit rarity=1 label=Med Kit count=1
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02 rarity=0 label=Assault Rifle count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03 rarity=2 label=Assault Rifle count=1
+[loot] pickup def Athena_ChillBronco rarity=2 label=Chug Splash count=2
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Assault Rifle count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_UC_Ore_T rarity=1 label=Hunting Rifle count=1
+[loot] scan 2ms levels=159 actors=14080 classes=1071 ignored=12495
+[loot]   chest   total=78 in_range=59 opened=2
+[loot]   ammo    total=87 in_range=78 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=451 in_range=347 opened=0
+[loot]   vehicle total=1 in_range=1 opened=0
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_UC_Ore rarity=0 label=Tactical Shotgun count=1
+[loot] scan 2ms levels=159 actors=14247 classes=1076 ignored=12645
+[loot]   chest   total=78 in_range=61 opened=2
+[loot]   ammo    total=87 in_range=78 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=451 in_range=349 opened=0
+[loot]   vehicle total=1 in_range=1 opened=0
+[loot] class Valet_BasicTruck_Vehicle_C -> vehicle
+[loot] class Valet_BasicCar_Vehicle_C -> vehicle
+[loot] pickup def WID_Sniper_BoltAction_Scope_Athena rarity=3 label=Bolt-Action Sniper Rifle count=1
+[loot] scan 2ms levels=159 actors=14440 classes=1082 ignored=12789
+[loot]   chest   total=78 in_range=61 opened=2
+[loot]   ammo    total=87 in_range=79 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=474 in_range=375 opened=0
+[loot]   vehicle total=3 in_range=3 opened=0
+[loot] pickup def WID_Pistol_HandCannon_Athena_VR_Or rarity=3 label=Hand Cannon count=1
+[loot] pickup def WID_Athena_JellyBean rarity=0 label=Jelly Bean count=15
+[loot] scan 3ms levels=159 actors=14629 classes=1084 ignored=12642
+[loot]   chest   total=78 in_range=60 opened=2
+[loot]   ammo    total=87 in_range=79 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=492 in_range=392 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] pickup def WID_HighTower_Soy_Boarding_CoreBR rarity=5 label=Silver Surfer's Board count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03_ rarity=2 label=Grave Digger count=1
+[loot] scan 3ms levels=159 actors=13441 classes=1088 ignored=12790
+[loot]   chest   total=78 in_range=59 opened=2
+[loot]   ammo    total=87 in_range=79 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=555 in_range=455 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def AthenaAmmoDataBulletsLight rarity=0 label=Ammo: Light Bullets count=18
+[loot] pickup def AthenaAmmoDataShells rarity=0 label=Ammo: Shells count=4
+[loot] pickup def AthenaAmmoDataBulletsMedium rarity=0 label=Ammo: Medium Bullets count=10
+[loot] pickup def AthenaAmmoDataBulletsHeavy rarity=0 label=Ammo: Heavy Bullets count=6
+[loot] class MeatballVehicle_L_C -> vehicle label=Boat
+[loot] pickup def WID_Sniper_NoScope_Athena_R_Ore_T0 rarity=2 label=Hunting Rifle count=1
+[loot] pickup def WoodItemData rarity=0 label=Wood count=50
+[loot] pickup def WID_Assault_SemiAuto_Athena_R_Ore_ rarity=2 label=Burst Assault Rifle count=1
+[loot] pickup def Athena_ShieldSmall rarity=1 label=Small Shield Potion count=6
+[loot] pickup def WID_Pistol_AutoHeavyPDW_Athena_R_O rarity=2 label=Submachine Gun count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_VR_Ore rarity=3 label=Pump Shotgun count=1
+[loot] pickup def StoneItemData rarity=0 label=Stone count=50
+[loot] pickup def WID_Assault_Stark_Athena_VR_Ore_T0 rarity=3 label=Stark Industries Energy Rifle count=1
+[loot] pickup def MetalItemData rarity=0 label=Metal count=90
+[loot] pickup def WID_Launcher_Pumpkin_Athena_UC_Ore rarity=1 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Assault_Stark_Athena_R_Ore_T03 rarity=2 label=Stark Industries Energy Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavyPDW_Athena_VR_ rarity=3 label=Compact SMG count=1
+[loot] pickup def WID_Athena_HopDrop rarity=0 label=Hop Drop count=15
+[loot] pickup def WID_Sniper_Heavy_Athena_VR_Ore_T03 rarity=3 label=Heavy Sniper Rifle count=1
+[loot] pickup def WID_Launcher_Pumpkin_Athena_VR_Ore rarity=3 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Launcher_Pumpkin_Athena_R_Ore_ rarity=2 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_VR_Ore rarity=3 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Athena_AppleSun rarity=2 label=Crash Pad count=3
+[loot] pickup def WID_Pistol_Scavenger_Athena_VR_Ore rarity=3 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_VR_Ore_T rarity=3 label=Hunting Rifle count=1
+[loot] pickup def WID_Assault_AutoHigh_Athena_SR_Ore rarity=4 label=Grave Digger count=1
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02_ rarity=0 label=Grave Digger count=1
+[loot] pickup def Athena_Shields rarity=2 label=Shield Potion count=2
+[loot] pickup def WID_Shotgun_Standard_Athena_SR_Ore rarity=4 label=Pump Shotgun count=1
+[loot] pickup def WID_Athena_WitchBroom rarity=5 label=Witch Broom count=1
+[loot] pickup def TID_Context_BouncePad_Athena rarity=2 label=Bouncer count=3
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=1 label=Suppressed Submachine Gun count=1
+[loot] class Valet_BasicCar_Vehicle_C -> vehicle
+[loot] pickup def WID_Athena_CandyCorn rarity=0 label=Candy Corn count=15
+[loot] pickup def WID_Sniper_BoltAction_Scope_Athena rarity=3 label=Bolt-Action Sniper Rifle count=1
+[loot] pickup def WID_Pistol_HandCannon_Athena_VR_Or rarity=3 label=Hand Cannon count=1
+[loot] pickup def AmmoDataRockets rarity=0 label=Ammo: Rockets count=3
+[loot] pickup def TID_Floor_Player_Launch_Pad_Athena rarity=3 label=Launch Pad count=1
+[loot] pickup def WID_HighTower_Soy_Boarding_CoreBR rarity=5 label=Silver Surfer's Board count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03_ rarity=2 label=Grave Digger count=1
+[loot] pickup def Athena_ShockGrenade rarity=3 label=Shockwave Grenade count=1
+[loot] pickup def Athena_PurpleStuff rarity=3 label=Slurp Juice count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_R_Ore_ rarity=2 label=Tactical Submachine Gun count=1
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_VR_Ore rarity=2 label=Tactical Shotgun count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_C_Ore_ rarity=1 label=Pump Shotgun count=1
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02 rarity=0 label=Assault Rifle count=1
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] pickup def WID_Hook_Gun_VR_Ore_T03 rarity=3 label=Grappler count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_UC_Ore rarity=2 label=Pump Shotgun count=1
+[loot] pickup def Athena_KnockGrenade rarity=2 label=Impulse Grenade count=3
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Grave Digger count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=2 label=Suppressed Submachine Gun count=1
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Bandage rarity=0 label=Bandage count=5
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] pickup def WID_Assault_Heavy_Athena_UC_Ore_T0 rarity=1 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=0 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_UC_Ore rarity=1 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_UC_Ore rarity=1 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Assault_Heavy_Athena_C_Ore_T03 rarity=0 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_C_Ore_ rarity=0 label=Burst Assault Rifle count=1
+[loot] pickup def Athena_Medkit rarity=1 label=Med Kit count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_UC_Ore_T rarity=1 label=Hunting Rifle count=1
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_R_Ore_ rarity=1 label=Tactical Shotgun count=1
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_02_C -> none (loot-like name, not matched)
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03 rarity=2 label=Assault Rifle count=1
+[loot] pickup def Athena_ChillBronco rarity=2 label=Chug Splash count=2
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Assault Rifle count=1
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_UC_Ore rarity=0 label=Tactical Shotgun count=1
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def AthenaAmmoDataBulletsLight rarity=0 label=Ammo: Light Bullets count=18
+[loot] pickup def AthenaAmmoDataShells rarity=0 label=Ammo: Shells count=4
+[loot] pickup def AthenaAmmoDataBulletsMedium rarity=0 label=Ammo: Medium Bullets count=10
+[loot] pickup def AthenaAmmoDataBulletsHeavy rarity=0 label=Ammo: Heavy Bullets count=6
+[loot] class MeatballVehicle_L_C -> vehicle label=Boat
+[loot] pickup def WID_Sniper_NoScope_Athena_R_Ore_T0 rarity=2 label=Hunting Rifle count=1
+[loot] pickup def WoodItemData rarity=0 label=Wood count=50
+[loot] pickup def WID_Assault_SemiAuto_Athena_R_Ore_ rarity=2 label=Burst Assault Rifle count=1
+[loot] pickup def Athena_ShieldSmall rarity=1 label=Small Shield Potion count=6
+[loot] pickup def WID_Pistol_AutoHeavyPDW_Athena_R_O rarity=2 label=Submachine Gun count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_VR_Ore rarity=3 label=Pump Shotgun count=1
+[loot] pickup def StoneItemData rarity=0 label=Stone count=50
+[loot] pickup def WID_Assault_Stark_Athena_VR_Ore_T0 rarity=3 label=Stark Industries Energy Rifle count=1
+[loot] pickup def MetalItemData rarity=0 label=Metal count=90
+[loot] pickup def WID_Launcher_Pumpkin_Athena_UC_Ore rarity=1 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Assault_Stark_Athena_R_Ore_T03 rarity=2 label=Stark Industries Energy Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavyPDW_Athena_VR_ rarity=3 label=Compact SMG count=1
+[loot] pickup def WID_Athena_HopDrop rarity=0 label=Hop Drop count=15
+[loot] pickup def WID_Sniper_Heavy_Athena_VR_Ore_T03 rarity=3 label=Heavy Sniper Rifle count=1
+[loot] pickup def WID_Launcher_Pumpkin_Athena_VR_Ore rarity=3 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Launcher_Pumpkin_Athena_R_Ore_ rarity=2 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_VR_Ore rarity=3 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Athena_AppleSun rarity=2 label=Crash Pad count=3
+[loot] pickup def WID_Pistol_Scavenger_Athena_VR_Ore rarity=3 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_VR_Ore_T rarity=3 label=Hunting Rifle count=1
+[loot] pickup def WID_Assault_AutoHigh_Athena_SR_Ore rarity=4 label=Grave Digger count=1
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02_ rarity=0 label=Grave Digger count=1
+[loot] pickup def Athena_Shields rarity=2 label=Shield Potion count=2
+[loot] pickup def WID_Shotgun_Standard_Athena_SR_Ore rarity=4 label=Pump Shotgun count=1
+[loot] pickup def WID_Athena_WitchBroom rarity=5 label=Witch Broom count=1
+[loot] pickup def TID_Context_BouncePad_Athena rarity=2 label=Bouncer count=3
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=1 label=Suppressed Submachine Gun count=1
+[loot] class Valet_BasicCar_Vehicle_C -> vehicle
+[loot] pickup def WID_Athena_CandyCorn rarity=0 label=Candy Corn count=15
+[loot] pickup def WID_Sniper_BoltAction_Scope_Athena rarity=3 label=Bolt-Action Sniper Rifle count=1
+[loot] pickup def WID_Pistol_HandCannon_Athena_VR_Or rarity=3 label=Hand Cannon count=1
+[loot] pickup def AmmoDataRockets rarity=0 label=Ammo: Rockets count=3
+[loot] pickup def TID_Floor_Player_Launch_Pad_Athena rarity=3 label=Launch Pad count=1
+[loot] pickup def WID_HighTower_Soy_Boarding_CoreBR rarity=5 label=Silver Surfer's Board count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03_ rarity=2 label=Grave Digger count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_R_Ore_ rarity=2 label=Tactical Submachine Gun count=1
+[loot] pickup def Athena_Medkit rarity=1 label=Med Kit count=1
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_VR_Ore rarity=2 label=Tactical Shotgun count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_C_Ore_ rarity=1 label=Pump Shotgun count=1
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02 rarity=0 label=Assault Rifle count=1
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] pickup def WID_Hook_Gun_VR_Ore_T03 rarity=3 label=Grappler count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_UC_Ore rarity=2 label=Pump Shotgun count=1
+[loot] pickup def Athena_KnockGrenade rarity=2 label=Impulse Grenade count=3
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Grave Digger count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=2 label=Suppressed Submachine Gun count=1
+[loot] pickup def Athena_PurpleStuff rarity=3 label=Slurp Juice count=1
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Bandage rarity=0 label=Bandage count=5
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] pickup def WID_Assault_Heavy_Athena_UC_Ore_T0 rarity=1 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=0 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_UC_Ore rarity=1 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_UC_Ore rarity=1 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Assault_Heavy_Athena_C_Ore_T03 rarity=0 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_C_Ore_ rarity=0 label=Burst Assault Rifle count=1
+[loot] pickup def Athena_ShockGrenade rarity=3 label=Shockwave Grenade count=2
+[loot] pickup def WID_Sniper_NoScope_Athena_UC_Ore_T rarity=1 label=Hunting Rifle count=1
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_R_Ore_ rarity=1 label=Tactical Shotgun count=1
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_02_C -> none (loot-like name, not matched)
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03 rarity=2 label=Assault Rifle count=1
+[loot] pickup def Athena_ChillBronco rarity=2 label=Chug Splash count=2
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Assault Rifle count=1
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_UC_Ore rarity=0 label=Tactical Shotgun count=1
+[loot] scan 53ms levels=158 actors=13572 classes=1077 ignored=12697
+[loot]   chest   total=78 in_range=60 opened=2
+[loot]   ammo    total=87 in_range=79 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=549 in_range=449 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FortPickupAthena -> pickup
+[loot] class B_Pickups_Default_C -> none (loot-like name, not matched)
+[loot] class BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def AthenaAmmoDataBulletsLight rarity=0 label=Ammo: Light Bullets count=18
+[loot] pickup def AthenaAmmoDataShells rarity=0 label=Ammo: Shells count=4
+[loot] pickup def AthenaAmmoDataBulletsMedium rarity=0 label=Ammo: Medium Bullets count=10
+[loot] pickup def AthenaAmmoDataBulletsHeavy rarity=0 label=Ammo: Heavy Bullets count=6
+[loot] class MeatballVehicle_L_C -> vehicle label=Boat
+[loot] pickup def WID_Sniper_NoScope_Athena_R_Ore_T0 rarity=2 label=Hunting Rifle count=1
+[loot] pickup def WoodItemData rarity=0 label=Wood count=50
+[loot] pickup def WID_Assault_SemiAuto_Athena_R_Ore_ rarity=2 label=Burst Assault Rifle count=1
+[loot] pickup def Athena_ShieldSmall rarity=1 label=Small Shield Potion count=6
+[loot] pickup def WID_Pistol_AutoHeavyPDW_Athena_R_O rarity=2 label=Submachine Gun count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_VR_Ore rarity=3 label=Pump Shotgun count=1
+[loot] pickup def StoneItemData rarity=0 label=Stone count=50
+[loot] pickup def WID_Assault_Stark_Athena_VR_Ore_T0 rarity=3 label=Stark Industries Energy Rifle count=1
+[loot] pickup def MetalItemData rarity=0 label=Metal count=90
+[loot] pickup def WID_Launcher_Pumpkin_Athena_UC_Ore rarity=1 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Assault_Stark_Athena_R_Ore_T03 rarity=2 label=Stark Industries Energy Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavyPDW_Athena_VR_ rarity=3 label=Compact SMG count=1
+[loot] pickup def WID_Athena_HopDrop rarity=0 label=Hop Drop count=15
+[loot] pickup def WID_Sniper_Heavy_Athena_VR_Ore_T03 rarity=3 label=Heavy Sniper Rifle count=1
+[loot] pickup def WID_Launcher_Pumpkin_Athena_VR_Ore rarity=3 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Launcher_Pumpkin_Athena_R_Ore_ rarity=2 label=Pumpkin Launcher count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_VR_Ore rarity=3 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Athena_AppleSun rarity=2 label=Crash Pad count=3
+[loot] pickup def WID_Pistol_Scavenger_Athena_VR_Ore rarity=3 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Sniper_NoScope_Athena_VR_Ore_T rarity=3 label=Hunting Rifle count=1
+[loot] pickup def WID_Assault_AutoHigh_Athena_SR_Ore rarity=4 label=Grave Digger count=1
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02_ rarity=0 label=Grave Digger count=1
+[loot] pickup def Athena_Shields rarity=2 label=Shield Potion count=2
+[loot] pickup def WID_Shotgun_Standard_Athena_SR_Ore rarity=4 label=Pump Shotgun count=1
+[loot] pickup def WID_Athena_WitchBroom rarity=5 label=Witch Broom count=1
+[loot] pickup def TID_Context_BouncePad_Athena rarity=2 label=Bouncer count=3
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=1 label=Suppressed Submachine Gun count=1
+[loot] class Valet_BasicCar_Vehicle_C -> vehicle
+[loot] pickup def WID_Athena_CandyCorn rarity=0 label=Candy Corn count=15
+[loot] pickup def WID_Sniper_BoltAction_Scope_Athena rarity=3 label=Bolt-Action Sniper Rifle count=1
+[loot] pickup def WID_Pistol_HandCannon_Athena_VR_Or rarity=3 label=Hand Cannon count=1
+[loot] pickup def AmmoDataRockets rarity=0 label=Ammo: Rockets count=5
+[loot] pickup def TID_Floor_Player_Launch_Pad_Athena rarity=3 label=Launch Pad count=1
+[loot] pickup def WID_HighTower_Soy_Boarding_CoreBR rarity=5 label=Silver Surfer's Board count=1
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03_ rarity=2 label=Grave Digger count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_R_Ore_ rarity=2 label=Tactical Submachine Gun count=1
+[loot] pickup def Athena_Medkit rarity=1 label=Med Kit count=1
+[loot] pickup def WID_Hook_Gun_VR_Ore_T03 rarity=3 label=Grappler count=1
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_VR_Ore rarity=2 label=Tactical Shotgun count=1
+[loot] pickup def WID_Shotgun_Standard_Athena_C_Ore_ rarity=1 label=Pump Shotgun count=1
+[loot] class B_ActorSpawner_BGA_Petrol_Pickup_C -> none (loot-like name, not matched)
+[loot] pickup def WID_Assault_Auto_Athena_C_Ore_T02 rarity=0 label=Assault Rifle count=1
+[loot] class Barrel_FishingRod_Container_Athena -> none (loot-like name, not matched)
+[loot] pickup def WID_Shotgun_Standard_Athena_UC_Ore rarity=2 label=Pump Shotgun count=1
+[loot] pickup def Athena_KnockGrenade rarity=2 label=Impulse Grenade count=3
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Grave Digger count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=2 label=Suppressed Submachine Gun count=1
+[loot] pickup def Athena_PurpleStuff rarity=3 label=Slurp Juice count=1
+[loot] class Car_SemiTruck_ContainerB_C -> none (loot-like name, not matched)
+[loot] pickup def Athena_Bandage rarity=0 label=Bandage count=5
+[loot] class Car_SemiTruck_Container_C -> none (loot-like name, not matched)
+[loot] pickup def WID_Assault_Heavy_Athena_UC_Ore_T0 rarity=1 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Pistol_AutoHeavySuppressed_Ath rarity=0 label=Suppressed Submachine Gun count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_UC_Ore rarity=1 label=Burst Assault Rifle count=1
+[loot] pickup def WID_Pistol_Scavenger_Athena_UC_Ore rarity=1 label=Tactical Submachine Gun count=1
+[loot] pickup def WID_Assault_Heavy_Athena_C_Ore_T03 rarity=0 label=Heavy Assault Rifle count=1
+[loot] pickup def WID_Assault_SemiAuto_Athena_C_Ore_ rarity=0 label=Burst Assault Rifle count=1
+[loot] pickup def Athena_ShockGrenade rarity=3 label=Shockwave Grenade count=2
+[loot] pickup def WID_Sniper_NoScope_Athena_UC_Ore_T rarity=1 label=Hunting Rifle count=1
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_R_Ore_ rarity=1 label=Tactical Shotgun count=1
+[loot] class Athena_Prop_Bedroom_HopeChest_03_C -> none (loot-like name, not matched)
+[loot] class Athena_Prop_Bedroom_HopeChest_02_C -> none (loot-like name, not matched)
+[loot] class Tiered_Chest_Athena_FactionChest_N -> chest
+[loot] class Tiered_Chest_Apollo_IceBox_C -> chest
+[loot] pickup def WID_Assault_Auto_Athena_R_Ore_T03 rarity=2 label=Assault Rifle count=1
+[loot] pickup def Athena_ChillBronco rarity=2 label=Chug Splash count=2
+[loot] pickup def WID_Assault_Auto_Athena_UC_Ore_T03 rarity=1 label=Assault Rifle count=1
+[loot] pickup def WID_Shotgun_SemiAuto_Athena_UC_Ore rarity=0 label=Tactical Shotgun count=1
+[loot] scan 2ms levels=157 actors=13633 classes=1071 ignored=12728
+[loot]   chest   total=78 in_range=60 opened=2
+[loot]   ammo    total=87 in_range=79 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=541 in_range=441 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] scan 3ms levels=157 actors=13683 classes=1076 ignored=12773
+[loot]   chest   total=78 in_range=60 opened=2
+[loot]   ammo    total=87 in_range=79 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=539 in_range=439 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] pickup def Athena_Rift_Item rarity=3 label=Rift-To-Go count=1
+[loot] pickup def WID_Athena_JellyBean rarity=0 label=Jelly Bean count=15
+[loot] pickup def WID_Pistol_Scavenger_Athena_SR_Ore rarity=4 label=Tactical Submachine Gun count=1
+[loot] scan 2ms levels=157 actors=13864 classes=1079 ignored=12906
+[loot]   chest   total=78 in_range=60 opened=2
+[loot]   ammo    total=87 in_range=79 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=567 in_range=466 opened=0
+[loot]   vehicle total=4 in_range=4 opened=0
+[loot] class FortVehicleManager -> none (loot-like name, not matched)
+[loot] class FlyingVehicleBoundarySpline_C -> none (loot-like name, not matched)
+[loot] class Tiered_Athena_FloorLoot_01_C -> none (loot-like name, not matched)
+[loot] class Tiered_Ammo_Athena_C -> ammo
+[loot] class Tiered_Chest_Athena_C -> chest
+[loot] scan 10ms levels=108 actors=4390 classes=370 ignored=4247
+[loot]   chest   total=1 in_range=0 opened=0
+[loot]   ammo    total=1 in_range=0 opened=0
+[loot]   supply  total=0 in_range=0 opened=0
+[loot]   llama   total=0 in_range=0 opened=0
+[loot]   pickup  total=0 in_range=0 opened=0
+[loot]   vehicle total=0 in_range=0 opened=0

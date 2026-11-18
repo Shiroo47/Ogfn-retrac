@@ -1,0 +1,2 @@
+Dear ImGui v1.91.9b (https://github.com/ocornut/imgui), MIT license, see LICENSE.txt.
+Copied by ship_project.py from the project's CMake checkout; only the files this solution compiles.
